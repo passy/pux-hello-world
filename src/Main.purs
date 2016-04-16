@@ -10,13 +10,13 @@ import Signal.Channel (CHANNEL)
 
 data Action = Increment | Decrement
 
-type State = Int
+type Model = Int
 
-update :: Action -> State -> State
+update :: Action -> Model -> Model
 update Increment = (_ + 1)
 update Decrement = (_ - 1)
 
-view :: State -> Html Action
+view :: Model -> Html Action
 view count =
   div
     []
