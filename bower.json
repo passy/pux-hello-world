@@ -1,0 +1,13 @@
+{
+  "name": "pux-hello-world",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^0.1.0",
+    "purescript-pux": "^3.0.0"
+  }
+}
