@@ -1,4 +1,6 @@
 # Pux Counter Example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/passy/pux-hello-world.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/passy/pux-hello-world.svg?branch=master)](https://travis-ci.org/passy/pux-hello-world)
 
 The canonical [Elm StartApp Example](https://github.com/evancz/start-app) in
